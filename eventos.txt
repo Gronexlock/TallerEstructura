@@ -1,0 +1,10 @@
+Conferencia,Tecnología,2 horas,Sala A
+Seminario,Marketing Digital,3 horas,Sala B
+Taller,Desarrollo Web,4 horas,Sala C
+Charla,Inteligencia Artificial,1.5 horas,Sala D
+Concierto,Jazz,2 horas,Teatro Municipal
+Conferencia,Ciencia de Datos,2.5 horas,Sala E
+Seminario,Liderazgo Empresarial,3 horas,Sala F
+Taller,Fotografía Digital,4 horas,Sala G
+Charla,Sostenibilidad Ambiental,1.5 horas,Sala H
+Concierto,Rock,2 horas,Estadio Principal

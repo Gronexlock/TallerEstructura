@@ -1,0 +1,10 @@
+Estudiante,Juan,25,Ingeniería Informática,Universidad XYZ
+Profesional,María,30,Marketing,Empresa ABC
+Estudiante,Pedro,28,Arquitectura,Universidad UVW
+Profesional,Laura,27,Desarrollo de Software,Empresa DEF
+Invitado Especial,Carlos,35,CEO,Empresa GHI
+Estudiante,Ana,23,Economía,Universidad JKL
+Profesional,Marta,29,Recursos Humanos,Empresa MNO
+Estudiante,David,31,Medicina,Universidad PQR
+Profesional,Elena,26,Contabilidad,Empresa STU
+Invitado Especial,Luis,33,Investigador,Instituto XYZ
